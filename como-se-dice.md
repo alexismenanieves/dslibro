@@ -20,16 +20,16 @@
 | function call | funciones | | llamadas a funciones |
 | functions | funciones | funciones | funciones o rutina |
 | indentation | | indentar | indentación |
-| index (verb) | as in, allows us to index vectors |  | poner/asignar en un índice (los vectores) |
-| Indexing | |  | indexación |
-| __input__ | por ej, 'takes a vector as input'| | entrada |
-| __input__ | por ej, 'input vector| | (vector de) entrada |  
+| index (verb) | as in, allows us to index vectors | indexar | poner/asignar en un índice (los vectores) |
+| Indexing | | indexado | indexación |
+| __input__ | por ej, 'takes a vector as input'| entrada | entrada |
+| __input__ | por ej, 'input vector| entrada | (vector de) entrada |  
 | Integrated Development Environment (IDE) | | ambiente integrado de desarrollo o en ocasiones no se traduce | IDE |
 | K-nearest neighbors | | K-nearest neighbors o la traducción literal K vecinos más cercanos | K-vecinos mas cercanos |
 | key bindings | | | combinaciones de teclas |
 | keyboard shortcut | atajo del teclado | atajo del teclado | atajo de teclado |
-| __logical vectores__| | | 
-| __logical operators__| | | 
+| __logical vectores__|  | vectores lógicos | |
+| __logical operators__|  | operadores lógicos | |
 | machine learning | | machine learning o la traducción literal aprendizaje de máquina | [aprendizaje automático](http://portal.uned.es/portal/page?_pageid=93,61703783&_dad=portal&_schema=PORTAL&idAsignatura=71014023) |
 | __motivating__ | used as an adjetive, see below -- is it always omitted? |  | 
 | motivating case studies || casos de estudio | |
@@ -52,8 +52,8 @@
 | script | _scripts_ | script | script, archivo de procesamiento por lotes (en MSDOS, Unix/Linux, etc.) |
 | sofware | software | software | software |
 | software engineer | ingeniero de programa, ingeniero de software | ingeniero de software | ingeniero de software, ingeniero informático |
-| sorting/to sort| as in, "to sort" or sorting data frames" | ||
-| Subsetting | as in, subsetting with logicals| | (crear un) subconjunto |
+| sorting/to sort| as in, "to sort" or sorting data frames" | ordenamiento ||
+| Subsetting | as in, subsetting with logicals| extracción de subconjunto | (crear un) subconjunto |
 | TABS | pestañas | pestañas | pestañas |
 | tidy data | datos ordenados; data _tidy_? | datos ordenados | datos limpios/ordenados |
 | tidy format | en formato _tidy_ o en formato ordenado? |  |  |
